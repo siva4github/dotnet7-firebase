@@ -12,7 +12,7 @@ namespace FirebaseLoginAuth.Controllers
 
         public HomeController()
         {
-            _auth = new FirebaseAuthProvider(new FirebaseConfig("AIzaSyDriZw1ynbIGAiQqJN-0D3zLQwvmI6-N44"));
+            _auth = new FirebaseAuthProvider(new FirebaseConfig("Paste Web API Key"));
         }
 
         public IActionResult Index()
