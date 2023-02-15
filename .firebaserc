@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "default": "dotnet7-firebase-demo"
+  }
+}
